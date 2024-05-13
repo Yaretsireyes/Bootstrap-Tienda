@@ -1,4 +1,4 @@
-# Bootstrap
+# Bootstrap Tienda
 
 Este proyecto esta echo con HTML, CSS Y Boostrap
 realizado en un dia al usar bootstrap., Una nueva experiencia con bootstrap.
